@@ -1,2 +1,2 @@
 # Coming Soon Page.
-This page is also used on https://sangelo.space
+This page was also used on https://sangelo.space
